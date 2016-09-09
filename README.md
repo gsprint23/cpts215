@@ -1,4 +1,4 @@
-# [CptS 215](http://piazza.com/wsu/spring2017/cpts111/home) Spring 2017 Github Repository
+# [CptS 215](http://piazza.com/wsu/spring2017/cpts111/home) Github Repository
 Introduction to Algorithmic Problem Solving
 
 [Washington State University](http://wsu.edu)
