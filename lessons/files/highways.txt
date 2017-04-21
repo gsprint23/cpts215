@@ -1,0 +1,247 @@
+san diego,los angeles
+los angeles,sacramento
+san francisco,sacramento
+sacramento,portland
+portland,seattle
+barstow,cove fort
+cove fort,salt lake city
+salt lake city,tremonton
+tremonton,butte
+las cruces,albuquerque
+albuquerque,denver
+denver,cheyenne
+cheyenne,buffalo
+laredo,san antonio
+san antonio,dallas
+dallas,oklahoma city
+oklahoma city,kansas city
+kansas city,des moines
+des moines,albert lea
+albert lea,minneapolis
+minneapolis,duluth
+galveston,houston
+houston,dallas
+laplace,hammond
+hammond,jackson
+jackson,memphis
+memphis,miner
+miner,st louis
+st louis,springfield
+springfield,normal
+normal,joliet
+joliet,chicago
+mobile,montgomery
+nashville,louisville
+louisville,indianapolis
+indianapolis,gary
+miami,tampa
+tampa,lake city
+lake city,macon
+macon,atlanta
+atlanta,chattanooga
+chattanooga,knoxville
+knoxville,lexington
+lexington,cincinnati
+cincinnati,dayton
+dayton,toledo
+toledo,detroit
+detroit,flint
+miami,daytona beach
+daytona beach,jacksonville
+jacksonville,savannah
+savannah,bowman
+benson,petersburg
+petersburg,richmond
+richmond,washington
+washington,baltimore
+baltimore,philadelphia
+philadelphia,newark
+newark,teaneck
+teaneck,new york
+new york,new haven
+new haven,canton
+canton,weston
+weston,reading
+reading,bangor
+san diego,casa grande
+phoenix,casa grande
+casa grande,las cruces
+las cruces,ft davis
+ft davis,san antonio
+san antonio,houston
+houston,lafayette
+lafayette,baton rouge
+baton rouge,laplace
+laplace,slidell
+slidell,mobile
+mobile,lake city
+lake city,jacksonville
+tampa,daytona beach
+baton rouge,hammond
+hammond,slidell
+macon,savannah
+phoenix,flagstaff
+ft davis,dallas
+dallas,shreveport
+shreveport,jackson
+jackson,meridian
+atlanta,columbia
+dallas,little rock
+barstow,flagstaff
+flagstaff,albuquerque
+albuquerque,oklahoma city
+oklahoma city,little rock
+little rock,memphis
+memphis,nashville
+nashville,knoxville
+knoxville,dandridge
+dandridge,asheville
+asheville,statesville
+statesville,winston-salem
+winston-salem,greensboro
+greensboro,benson
+montgomery,atlanta
+atlanta,spartanburg
+spartanburg,charlotte
+charlotte,greensboro
+greensboro,petersburg
+slidell,meridian
+wildwood,chattanooga
+goreville,nashville
+nashville,wildwood
+oklahoma city,joplin
+joplin,st louis
+st louis,mt vernon
+mt vernon,louisville
+louisville,lexington
+lexington,charleston
+charleston,staunton
+staunton,richmond
+dandridge,kingsport
+kingsport,wytheville
+wytheville,staunton
+staunton,middletown
+middletown,washington
+middletown,carlisle
+carlisle,harrisburg
+harrisburg,jonestown
+jonestown,hazleton
+hazleton,dunmore
+dunmore,binghamton
+binghamton,syracuse
+bowman,columbia
+columbia,spartanburg
+spartanburg,asheville
+asheville,kingsport
+joplin,kansas city
+kansas city,omaha
+omaha,sioux falls
+sioux falls,fargo
+cove fort,arvada
+arvada,denver
+denver,kansas city
+kansas city,st louis
+st louis,effingham
+effingham,indianapolis
+indianapolis,dayton
+dayton,columbus
+pittsburg,bedford
+bedford,hancock
+hancock,baltimore
+miner,goreville
+goreville,mt vernon
+mt vernon,effingham
+effingham,champaign
+champaign,country club hills
+country club hills,chicago
+springfield,champaign
+davenport,normal
+normal,champaign
+champaign,indianapolis
+indianapolis,cincinnati
+louisville,cincinnati
+cincinnati,columbus
+strongsville,cleveland
+akron,richfield
+richfield,cleveland
+charleston,morgantown
+morgantown,pittsburg
+pittsburg,mercer
+mercer,erie
+morgantown,hancock
+akron,north jackson
+north jackson,pittsburg
+pittsburg,bedford
+bedford,carlisle
+carlisle,philadelphia
+baltimore,harrisburg
+jonestown,newark
+newark,new york
+arvada,welby
+welby,big springs
+sacramento,salt lake city
+salt lake city,echo
+echo,cheyenne
+cheyenne,big springs
+big springs,omaha
+omaha,des moines
+des moines,davenport
+davenport,silvis
+silvis,lasalle
+lasalle,joliet
+joliet,country club hills
+country club hills,gary
+toledo,strongsville
+strongsville,richfield
+richfield,north jackson
+north jackson,mercer
+mercer,bellefonte
+bellefonte,hazleton
+hazleton,teaneck
+normal,lasalle
+lasalle,rochelle
+rochelle,beloit
+beloit,milwaukee
+milwaukee,green bay
+chicago,milwaukee
+gary,marshall
+marshall,detroit
+marshall,lansing
+lansing,detroit
+lansing,flint
+portland,hermiston
+hermiston,declo
+declo,pocatello
+declo,tremonton
+tremonton,ogden
+ogden,echo
+ellensburg,hermiston
+seattle,ellensburg
+ellensburg,butte
+butte,billings
+billings,buffalo
+buffalo,sioux falls
+sioux falls,albert lea
+albert lea,tomah
+tomah,madison
+madison,beloit
+beloit,chicago
+chicago,gary
+toledo,cleveland
+cleveland,erie
+erie,syracuse
+syracuse,schenectady
+schenetady,albany
+albany,springfield ma
+springfield ma,sturbridge
+sturbridge,weston
+weston,boston
+dunmore,newburgh
+newburgh,hartford
+hartford,sturbridge
+new haven,hartford
+hartford,springfield ma
+milwaukee,madison
+tomah,minneapolis
+minneapolis,fargo
+fargo,billings
