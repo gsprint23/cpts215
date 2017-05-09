@@ -1,4 +1,4 @@
-# [CptS 215](http://piazza.com/wsu/spring2017/cpts215/home) Github Repository
+# [CptS 215](http://piazza.com/wsu/fall2017/cpts215/home) Github Repository
 Data Analytics Systems and Algorithms
 
 [Washington State University](http://wsu.edu)
