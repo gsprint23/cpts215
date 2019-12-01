@@ -4,7 +4,8 @@ Data Analytics Systems and Algorithms
 [Washington State University](http://wsu.edu)
 
 Welcome to the Github repository for CptS 215 at WSU. Course materials are hosted here in the following folders:
+* examreviews (exam review guides)
 * lessons (notes from class)
-* progassignments (programming assignments for homework)
 * microassignments (concept/programming assignments for homework)
+* progassignments (programming assignments for homework)
 * project (final project for the course)
